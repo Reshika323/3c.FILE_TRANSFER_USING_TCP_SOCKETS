@@ -56,10 +56,12 @@ while True:
 ## OUPUT
 
 ## Client:
-<img width="1280" height="275" alt="Screenshot 2025-10-22 131651" src="https://github.com/user-attachments/assets/4aa0697d-bf48-4016-81cd-99518124eb5f" />
+<img width="750" height="345" alt="image" src="https://github.com/user-attachments/assets/798a0181-a8bd-4d16-a230-61f475650a28" />
+
 
 ## Server:
-<img width="1292" height="85" alt="Screenshot 2025-10-22 131733" src="https://github.com/user-attachments/assets/08b3aee6-621d-4127-badc-f8c05cdcbe58" />
+<img width="868" height="330" alt="image" src="https://github.com/user-attachments/assets/c5459541-c035-4679-9674-6f5e8dac6d26" />
+
 
 ## RESULT
 Thus, the python program for creating File Transfer using TCP Sockets Links was 
